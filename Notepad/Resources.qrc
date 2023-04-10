@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/icon">
+        <file>img/About.png</file>
+        <file>img/Copy.png</file>
+        <file>img/Cut.png</file>
+        <file>img/New.png</file>
+        <file>img/Open.png</file>
+        <file>img/Paste.png</file>
+        <file>img/Redo_nazad.png</file>
+        <file>img/Redo_vperyod.png</file>
+        <file>img/Save_as.png</file>
+        <file>img/Save.png</file>
+        <file>img/Exit.png</file>
+        <file>img/icon.png</file>
+    </qresource>
+</RCC>
